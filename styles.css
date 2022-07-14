@@ -17,8 +17,6 @@ body {
     color: #f9faf8;
 }
 
-
-
 ul {
     list-style-type: none;
     display:flex;
@@ -29,4 +27,35 @@ a {
     text-decoration: none;
     font-size: 18px;
     color: #e5e7eb;
+}
+
+.pt1 {
+    background-color: #1f2937;
+    display: flex;
+    padding: 125px 250px;
+    gap: 32px;
+    justify-content: space-between;
+}
+
+.title1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.para1 {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.pt1 button {
+    background-color: #3882f6;
+    width: 125px;
+    height: 35px;
+    border-radius: 8px;
+    border: 0;
+    margin: 16px 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: #f9faf8;
 }
