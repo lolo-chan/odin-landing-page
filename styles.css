@@ -118,3 +118,43 @@ a {
     text-align: right;
     padding: 8px;
 }
+
+.pt4 {
+    background-color: white;
+
+}
+
+.bluebox {
+    background-color: #3882f6;
+    padding: 60px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 250px;
+    border-radius: 10px;
+    gap: 80px;
+}
+
+.title4 {
+    font-size: 26px;
+    color: #f9faf8;
+    font-weight: bolder;
+
+}
+
+.sentence {
+    font-size: 20px;
+    color: #f9faf8;
+}
+
+.right4 button { 
+    background-color: #3882f6;
+    width: 125px;
+    height: 35px;
+    border-radius: 8px;
+    border: 2px solid #f9faf8;
+    margin: 16px 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: #f9faf8;
+}
